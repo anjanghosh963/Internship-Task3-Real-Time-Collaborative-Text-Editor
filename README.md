@@ -4,13 +4,6 @@ This project is a real-time collaborative text editor built with the MERN stack 
 
 ---
 
-## 📸 Screenshots of Task 3
-
-<img width="1920" height="1028" alt="{A16BF4E6-CD24-4228-B84E-DC40CD382B3D}" src="https://github.com/user-attachments/assets/cbac077e-7c13-42f0-8361-af88d29d1554" />
-
-
----
-
 ## ✨ Features
 
 * **Real-Time Collaboration**: See edits, selections, and cursors from other users instantly.
@@ -91,3 +84,9 @@ Ensure you have the following software installed on your machine:
 ## 🔧 Usage
 
 Once both the backend and frontend servers are running, open `http://localhost:3000` in multiple browser tabs to simulate different users. Any changes made in one tab will be instantly reflected in the others.
+
+---
+
+## 📸 Screenshots of Task 3
+
+<img width="1920" height="1028" alt="{A16BF4E6-CD24-4228-B84E-DC40CD382B3D}" src="https://github.com/user-attachments/assets/cbac077e-7c13-42f0-8361-af88d29d1554" />
