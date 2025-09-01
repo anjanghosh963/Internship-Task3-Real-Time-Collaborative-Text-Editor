@@ -27,7 +27,9 @@ This project is a real-time collaborative text editor built with the MERN stack 
 Please read this section carefully before setting up the project:
 
 * 📁 **Backend**: The `backend` folder is provided as-is and contains all the necessary server-side files.
-* 📦 **Frontend (Task 3 file)**: Due to file size limitations, the complete frontend application is contained within the **Task 3 compressed file (e.g., Task 3.rar)**. **You must extract this file** to get all the necessary frontend source code before you can run the application.
+* 📦 **Frontend (Frontend file)**: Due to file size limitations, the complete frontend application is contained within the **Frontend compressed file (e.g., Frontend.rar)**. **You must extract this file** to get all the necessary frontend source code before you can run the application.
+
+# I've attached the Task 3 files in a RAR archive. You'll need to extract the archive to access the complete folder.
 
 ---
 
