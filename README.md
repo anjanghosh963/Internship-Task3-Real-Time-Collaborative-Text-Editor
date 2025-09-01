@@ -89,4 +89,6 @@ Once both the backend and frontend servers are running, open `http://localhost:3
 
 ## 📸 Screenshots of Task 3
 
-<img width="1920" height="1028" alt="{A16BF4E6-CD24-4228-B84E-DC40CD382B3D}" src="https://github.com/user-attachments/assets/cbac077e-7c13-42f0-8361-af88d29d1554" />
+<img width="1920" height="1028" alt="Task 3" src="https://github.com/user-attachments/assets/3e8a6c20-d021-429f-8890-a9e1bab776eb" />
+
+## Linkedin post:- https://www.linkedin.com/posts/anjanghosh963_webdevelopment-internship-fullstackdeveloper-activity-7367926643530616834-4IaO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiknjEB-QGuqv48T6vBmVagL9pwU-i1eAU
